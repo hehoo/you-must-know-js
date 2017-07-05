@@ -1,5 +1,5 @@
 # What is it?
-**You Must Know JavaScript** is a series of well prepared JavaScript courses made by Nokia Hangzhou UICA team. 
+**You Must Know JavaScript** is a series of well prepared JavaScript courses and exercises which cover most of important knowledge points of JavaScript. 
 
 ## Ready Courses:
    * [Array](./Basic/Grammar/Array.md)
